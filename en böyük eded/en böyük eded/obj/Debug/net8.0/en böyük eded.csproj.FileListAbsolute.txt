@@ -1,0 +1,14 @@
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\bin\Debug\net8.0\en böyük eded.exe
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\bin\Debug\net8.0\en böyük eded.deps.json
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\bin\Debug\net8.0\en böyük eded.runtimeconfig.json
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\bin\Debug\net8.0\en böyük eded.dll
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\bin\Debug\net8.0\en böyük eded.pdb
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.AssemblyInfoInputs.cache
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.AssemblyInfo.cs
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.csproj.CoreCompileInputs.cache
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.dll
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\refint\en böyük eded.dll
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.pdb
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.genruntimeconfig.cache
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\ref\en böyük eded.dll

@@ -34,7 +34,39 @@ namespace en_böyük_eded
             //Console.WriteLine(average);
 
             //TASK 1.3
+<<<<<<< HEAD
             string s = "Programming";
+=======
+           string s = "Programming";
+         
+for (int i = 0; i < s.Length; i++)
+{ 
+bool flag = true;
+int count = 0;
+
+    for (int j = 0; j < i; j++)
+    {
+        if (s[j] == s[i])
+        {
+            flag = false;
+            break;
+        }
+    }
+    if (flag) { 
+    for (int k = 0; k < s.Length; k++)
+        {
+            if (s[k] == s[i])
+            {
+                count++;
+            }
+        } 
+        Console.Write(count);
+        Console.WriteLine(s[i]);
+    }
+        
+
+}
+>>>>>>> 30ecc8d258a04afe7ea9a5b35effa6fbcf72fe73
 
             for (int i = 0; i < s.Length; i++)
             {

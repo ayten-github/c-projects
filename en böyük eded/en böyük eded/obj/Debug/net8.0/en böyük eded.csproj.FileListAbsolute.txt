@@ -12,3 +12,4 @@ C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net
 C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.pdb
 C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.genruntimeconfig.cache
 C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\ref\en böyük eded.dll
+C:\Users\Landau\Desktop\c#projects\en böyük eded\en böyük eded\obj\Debug\net8.0\en böyük eded.sourcelink.json

@@ -34,31 +34,37 @@ namespace en_böyük_eded
             //Console.WriteLine(average);
 
             //TASK 1.3
-            //string lettersinString = "Programming";
-            //bool flag= true;
-            //int count =0;
-            //for (int i = 0; i < lettersinString.Length; i++) {
-            //    for (int j = 0; j < i; j++) {
-            //        if (lettersinString[j] == lettersinString[i])   {
-            //            flag = false;
-            //            break;
-            //             }
+            string s = "Programming";
 
-            //    }
-            //    if (flag == true)
-            //    {
-            //        for(int k=0; k < lettersinString.Length; k++)
-            //        {
-            //            if (lettersinString[k] == lettersinString[i])
-            //                count++;
-            //        }
-            //        Console.Write(count);
-            //        Console.WriteLine(lettersinString[i]);
-            //    }
-            //}
+            for (int i = 0; i < s.Length; i++)
+            {
+                bool flag = true;
+                int count = 0;
+
+                for (int j = 0; j < i; j++)
+                {
+                    if (s[j] == s[i])
+                    {
+                        flag = false;
+                        break;
+                    }
+                }
+                if (flag)
+                {
+                    for (int k = 0; k < s.Length; k++)
+                    {
+                        if (s[k] == s[i])
+                        {
+                            count++;
+                        }
+                    }
+                    Console.Write(count);
+                    Console.WriteLine(s[i]);
+                }
 
 
-
+            }
+            
         }
     }
 }

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Landau\\Desktop\\c#projects\\lesson7hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48525524-7E14-41AB-9F82-7976093851C1}|lesson7hw\\lesson7hw.csproj|c:\\users\\landau\\desktop\\c#projects\\lesson7hw\\lesson7hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48525524-7E14-41AB-9F82-7976093851C1}|lesson7hw\\lesson7hw.csproj|solutionrelative:lesson7hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 289,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\lesson7hw\\lesson7hw\\Program.cs",
+              "RelativeDocumentMoniker": "lesson7hw\\Program.cs",
+              "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\lesson7hw\\lesson7hw\\Program.cs",
+              "RelativeToolTip": "lesson7hw\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:32:19.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

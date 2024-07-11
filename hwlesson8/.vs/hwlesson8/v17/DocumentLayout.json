@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD01844E-3CBD-456C-912F-45DB6773B25A}|hwlesson8\\hwlesson8.csproj|c:\\users\\landau\\desktop\\c#projects\\hwlesson8\\hwlesson8\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD01844E-3CBD-456C-912F-45DB6773B25A}|hwlesson8\\hwlesson8.csproj|solutionrelative:hwlesson8\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD01844E-3CBD-456C-912F-45DB6773B25A}|hwlesson8\\hwlesson8.csproj|c:\\users\\landau\\desktop\\c#projects\\hwlesson8\\hwlesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD01844E-3CBD-456C-912F-45DB6773B25A}|hwlesson8\\hwlesson8.csproj|solutionrelative:hwlesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD01844E-3CBD-456C-912F-45DB6773B25A}|hwlesson8\\hwlesson8.csproj|c:\\users\\landau\\desktop\\c#projects\\hwlesson8\\hwlesson8\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD01844E-3CBD-456C-912F-45DB6773B25A}|hwlesson8\\hwlesson8.csproj|solutionrelative:hwlesson8\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 210,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supermarket.cs",
+              "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\hwlesson8\\Supermarket.cs",
+              "RelativeDocumentMoniker": "hwlesson8\\Supermarket.cs",
+              "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\hwlesson8\\Supermarket.cs",
+              "RelativeToolTip": "hwlesson8\\Supermarket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:25:52.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "market.cs",
+              "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\hwlesson8\\market.cs",
+              "RelativeDocumentMoniker": "hwlesson8\\market.cs",
+              "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\hwlesson8\\market.cs",
+              "RelativeToolTip": "hwlesson8\\market.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:46:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\hwlesson8\\Program.cs",
+              "RelativeDocumentMoniker": "hwlesson8\\Program.cs",
+              "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\hwlesson8\\hwlesson8\\Program.cs",
+              "RelativeToolTip": "hwlesson8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:45:08.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

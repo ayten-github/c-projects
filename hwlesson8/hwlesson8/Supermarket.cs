@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace hwlesson8
 {
-    public class Supermarket: market
+    public class SuperMarket : market
     {
         public int NumerofMarkets;
         public int TotalIncome;
-
     }
-    public void AddMarketIncome(int income) 
+
 }

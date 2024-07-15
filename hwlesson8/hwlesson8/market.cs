@@ -14,6 +14,15 @@ namespace hwlesson8
         public int ProductCostPrice;
         public int AddingProduct;
         public double Income;
+        public market(int emptyStock, int soldProduct, int productCostPrice, int addingProduct, double income) 
+        {
+            EmptyStock = emptyStock;
+            SoldProduct = soldProduct;
+            ProductCostPrice = productCostPrice;
+            AddingProduct = addingProduct;
+            Income = income;
+        }
+
         public void Sell(int solprod) {
             EmptyStock += solprod;
             SoldProduct += solprod;

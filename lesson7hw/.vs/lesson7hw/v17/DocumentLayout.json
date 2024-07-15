@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 289,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "lesson7hw\\Program.cs",
               "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\lesson7hw\\lesson7hw\\Program.cs",
               "RelativeToolTip": "lesson7hw\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "ViewState": "AQIAACsAAADAnJmZmZkhwAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T04:32:19.333Z",
               "EditorCaption": ""

@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            market market1= new market();
+            market market1= new market() {Name="araz",};
             market market2 = new market();
-            Supermarket supmar1= new Supermarket();
+            SuperMarket supmar1= new SuperMarket();
 
         
         }

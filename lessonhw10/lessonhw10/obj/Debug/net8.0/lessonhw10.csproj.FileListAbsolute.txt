@@ -1,0 +1,15 @@
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\bin\Debug\net8.0\lessonhw10.exe
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\bin\Debug\net8.0\lessonhw10.deps.json
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\bin\Debug\net8.0\lessonhw10.runtimeconfig.json
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\bin\Debug\net8.0\lessonhw10.dll
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\bin\Debug\net8.0\lessonhw10.pdb
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.AssemblyInfoInputs.cache
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.AssemblyInfo.cs
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.csproj.CoreCompileInputs.cache
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.sourcelink.json
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.dll
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\refint\lessonhw10.dll
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.pdb
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\lessonhw10.genruntimeconfig.cache
+C:\Users\Landau\Desktop\c#projects\lessonhw10\lessonhw10\obj\Debug\net8.0\ref\lessonhw10.dll

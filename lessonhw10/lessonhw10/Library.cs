@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lessonhw10
 {
-    public class Library
+    public class Library :ILibrary
     {
         public Book[] Books = Array.Empty<Book>();
         public void Addbook( Book book) { 
@@ -14,6 +14,12 @@ namespace lessonhw10
             Books[Books.Length-1] = book;
         
         }
+
+        public void AddBook()
+        {
+            
+        }
+
         public Book[] GetAllBooks() {
             return Books;
 
@@ -28,6 +34,12 @@ namespace lessonhw10
             }
             return null;
         }
+
+        public Book GetBookById()
+        {
+            throw new NotImplementedException();
+        }
+
         public Book? GetBookByName(string name) {
             foreach (var book in Books)
             {
@@ -38,6 +50,12 @@ namespace lessonhw10
             }
             return null;
         }
+
+        public Book GetBookByName()
+        {
+            throw new NotImplementedException();
+        }
+
         public Book[] GetfilteredBook(string genre) {
             Book[] filteredbook = Array.Empty<Book>(); 
             foreach (var book in Books) {
@@ -64,6 +82,15 @@ namespace lessonhw10
 
         }
 
+        public Book[] GetFilteredBooks()
+        {
+            throw new NotImplementedException();
         }
+
+        public Book[] GetFilteredBooks(double n, double m)
+        {
+            throw new NotImplementedException();
+        }
+    }
     }
 

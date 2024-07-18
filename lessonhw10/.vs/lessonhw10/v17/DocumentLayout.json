@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|c:\\users\\landau\\desktop\\c#projects\\lessonhw10\\lessonhw10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|c:\\users\\landau\\desktop\\c#projects\\lessonhw10\\lessonhw10\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|c:\\users\\landau\\desktop\\c#projects\\lessonhw10\\lessonhw10\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|c:\\users\\landau\\desktop\\c#projects\\lessonhw10\\lessonhw10\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|c:\\users\\landau\\desktop\\c#projects\\lessonhw10\\lessonhw10\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|c:\\users\\landau\\desktop\\c#projects\\lessonhw10\\lessonhw10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF893F-6323-48B7-93E6-47986B4E2BBC}|lessonhw10\\lessonhw10.csproj|solutionrelative:lessonhw10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ILibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\ILibrary.cs",
+              "RelativeDocumentMoniker": "lessonhw10\\ILibrary.cs",
+              "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\ILibrary.cs",
+              "RelativeToolTip": "lessonhw10\\ILibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:42:05.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\Library.cs",
               "RelativeDocumentMoniker": "lessonhw10\\Library.cs",
               "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\Library.cs",
               "RelativeToolTip": "lessonhw10\\Library.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T08:56:43.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\Book.cs",
               "RelativeDocumentMoniker": "lessonhw10\\Book.cs",
@@ -56,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\Product.cs",
               "RelativeDocumentMoniker": "lessonhw10\\Product.cs",
               "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\lessonhw10\\lessonhw10\\Product.cs",
               "RelativeToolTip": "lessonhw10\\Product.cs",
-              "ViewState": "AQIAAAAAAABQNDMzMzMrwA0AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T05:31:37.859Z",
               "EditorCaption": ""

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesso13hwpart2", "lesso13hwpart2\lesso13hwpart2.csproj", "{FFD13A50-FED5-4481-A11F-87B5B1D9A111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD13A50-FED5-4481-A11F-87B5B1D9A111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD13A50-FED5-4481-A11F-87B5B1D9A111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD13A50-FED5-4481-A11F-87B5B1D9A111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD13A50-FED5-4481-A11F-87B5B1D9A111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B9F1D1-E540-4067-A1B3-4D4CDC62CAC1}
+	EndGlobalSection
+EndGlobal

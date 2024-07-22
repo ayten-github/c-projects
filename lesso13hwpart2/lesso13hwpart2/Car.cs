@@ -8,24 +8,18 @@ namespace lesso13hwpart2
 {
     public class Car
     {
-        private static int _id=0;
-        public int Id
-        {
-            get
-            {
-                return _id;
-            }
-            set {
-                _id++;
-                Id = _id;
-            }
-        }
-        public string Brand;
-        public string Model;
-        public string Type;
+        public string Name;
+        public string Brand { get; set; }
+        public string Model{ get; set; }
+        public CarType Type{ get; set; }
+        //public Car(string name, CarType type) {
+        //    name = name;
+        //    Type = type;
+        
+        //}
         public override string ToString()
         {
-            return $"Id {Id} Brand{Brand} Model{Model} Type{Type} ";
+            return $"Name:{Name} Brand {Brand} ,Model {Model} ,Type :{Type} ";
         }
     }
 }

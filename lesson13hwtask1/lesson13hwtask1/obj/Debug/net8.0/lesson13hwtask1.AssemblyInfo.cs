@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lesson13hwtask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93b14bf721a669b6f1fffbef838e37787a70259c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28b34bbdd4a47658d40fc7204c247c367cfa9dcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("lesson13hwtask1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lesson13hwtask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

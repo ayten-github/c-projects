@@ -13,7 +13,7 @@ namespace lesson13hwtask1
         public string Name {get; set;}
         public double Price { get; set;}
         public int PersonCapacity { get; set; }
-        public bool IsAvibale { get ; set; }
+        public bool IsAvibale { get; set; } = true;
         public Room(string name,int capacity,double price) {
             _id++;
             Id = _id;
@@ -21,8 +21,8 @@ namespace lesson13hwtask1
             Price = price;
             PersonCapacity = capacity;
         }
-        public static string ShowInfo(Room room) {
-            return $"name{room.Name}price{room.PersonCapacity}price{room.Price}";
+        public string ShowInfo() {
+            return $"name{Name}personcapacity{PersonCapacity}price{Price},isaviable{IsAvibale}";
                 }
         public override string ToString()
         {

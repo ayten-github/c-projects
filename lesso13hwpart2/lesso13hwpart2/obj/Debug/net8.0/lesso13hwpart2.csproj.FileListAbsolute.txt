@@ -1,0 +1,15 @@
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\bin\Debug\net8.0\lesso13hwpart2.exe
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\bin\Debug\net8.0\lesso13hwpart2.deps.json
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\bin\Debug\net8.0\lesso13hwpart2.runtimeconfig.json
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\bin\Debug\net8.0\lesso13hwpart2.dll
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\bin\Debug\net8.0\lesso13hwpart2.pdb
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.AssemblyInfoInputs.cache
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.AssemblyInfo.cs
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.csproj.CoreCompileInputs.cache
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.sourcelink.json
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.dll
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\refint\lesso13hwpart2.dll
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.pdb
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\lesso13hwpart2.genruntimeconfig.cache
+C:\Users\Landau\Desktop\c#projects\lesso13hwpart2\lesso13hwpart2\obj\Debug\net8.0\ref\lesso13hwpart2.dll

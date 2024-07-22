@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lesso13hwpart2/1.0.0": {
+        "runtime": {
+          "lesso13hwpart2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesso13hwpart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -9,7 +9,7 @@ namespace Lesson15hw
     public interface IAccount
     {
         public bool PasswordChecker(string password);
-        public string ShowInfo();
+        public void ShowInfo();
 
     }
 }

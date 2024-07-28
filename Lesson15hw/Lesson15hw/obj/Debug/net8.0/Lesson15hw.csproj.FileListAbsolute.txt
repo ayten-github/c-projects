@@ -1,0 +1,15 @@
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\bin\Debug\net8.0\Lesson15hw.exe
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\bin\Debug\net8.0\Lesson15hw.deps.json
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\bin\Debug\net8.0\Lesson15hw.runtimeconfig.json
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\bin\Debug\net8.0\Lesson15hw.dll
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\bin\Debug\net8.0\Lesson15hw.pdb
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.AssemblyInfoInputs.cache
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.AssemblyInfo.cs
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.csproj.CoreCompileInputs.cache
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.sourcelink.json
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.dll
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\refint\Lesson15hw.dll
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.pdb
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\Lesson15hw.genruntimeconfig.cache
+C:\Users\Landau\Desktop\c#projects\Lesson15hw\Lesson15hw\obj\Debug\net8.0\ref\Lesson15hw.dll

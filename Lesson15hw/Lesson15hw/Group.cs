@@ -9,7 +9,22 @@ namespace Lesson15hw
     public class Group
     {
         private int limit;
-        public string GropNo { get; set; }
+        private string _gropno;
+        public string GropNo
+        {
+            get
+            {
+
+                return _gropno;
+            }
+            set
+            {
+                if (CheckGroupNo(value) == true)
+                {
+                    _gropno = value;
+                }
+            }
+        }
         public int StudentLimit
         {
             get
@@ -44,17 +59,19 @@ namespace Lesson15hw
         }
         public Student? GetStudent(int id)
         {
-            Student searched = null;
+            Student? searched = null;
             foreach (var student in students)
             {
-                if (student.Id == id) return student;
+                if (student.Id == id) searched=student;
+            
             }
-            return null;
+            if (searched == null) throw new NullReferenceException("Student not found");
 
+            return searched;
         }
-        public Student[] GetAllStudent(Student student)
+        public Student[] GetAllStudent()
         {
-            return student;
+            return students;
         }
 
 

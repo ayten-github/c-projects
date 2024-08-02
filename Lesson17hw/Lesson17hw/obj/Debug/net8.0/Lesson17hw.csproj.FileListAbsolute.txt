@@ -1,0 +1,5 @@
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.AssemblyInfoInputs.cache
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.AssemblyInfo.cs
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.csproj.CoreCompileInputs.cache
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.sourcelink.json

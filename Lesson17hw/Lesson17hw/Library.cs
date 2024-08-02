@@ -55,6 +55,18 @@ namespace Lesson17hw
             }
             return searched;
         }
+        public void RemoveBookByCode( string code)
+        {
+            foreach (var item in books)
+            {
+                if (item.Code == code)
+                {
+                    books = null;
+                }
+                
+            }
+
+        }
         
     }
 }

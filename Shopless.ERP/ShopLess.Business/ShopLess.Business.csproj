@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopLess.Core\ShopLess.Core.csproj" />
+    <ProjectReference Include="..\ShopLess.Data\ShopLess.Data.csproj" />
+  </ItemGroup>
+
+</Project>

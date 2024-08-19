@@ -11,28 +11,22 @@ namespace Lesson17hw
     {
         private static int _id;
         public string Name { get; set; }
-        public int Id { get {
-
-                return _id;
-
-            } internal set {
-                ++_id;
-                Id = _id;
-            }
+        public int Id { get;internal set;
         }
         public string AuthorName { get; set; }
         public int PageCount { get; set; }
         public string Code { get; set; }
-        public Book()
+        public Book(string name)
         {
-
+            ++_id;
+            Id = _id;
+            Name = name;
+            Code = CorrectCode(name, Id);
 
         }
-        public string CorrectCode(string code)
+        public string CorrectCode(string name,int id)
         {
-            string cor;
-            cor = code.Substring(0, 2).ToUpper();
-            return cor + code;
+            return name.Substring(0, 2).ToUpper() + id;
         }
 
     }

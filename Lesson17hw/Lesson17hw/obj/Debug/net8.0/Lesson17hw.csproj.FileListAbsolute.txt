@@ -3,3 +3,13 @@ C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson
 C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.AssemblyInfo.cs
 C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.csproj.CoreCompileInputs.cache
 C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.sourcelink.json
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\bin\Debug\net8.0\Lesson17hw.exe
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\bin\Debug\net8.0\Lesson17hw.deps.json
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\bin\Debug\net8.0\Lesson17hw.runtimeconfig.json
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\bin\Debug\net8.0\Lesson17hw.dll
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\bin\Debug\net8.0\Lesson17hw.pdb
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.dll
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\refint\Lesson17hw.dll
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.pdb
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\Lesson17hw.genruntimeconfig.cache
+C:\Users\Landau\Desktop\c#projects\Lesson17hw\Lesson17hw\obj\Debug\net8.0\ref\Lesson17hw.dll

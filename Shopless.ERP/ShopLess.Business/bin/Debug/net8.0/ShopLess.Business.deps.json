@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShopLess.Business/1.0.0": {
+        "dependencies": {
+          "ShopLess.Core": "1.0.0",
+          "ShopLess.Data": "1.0.0"
+        },
+        "runtime": {
+          "ShopLess.Business.dll": {}
+        }
+      },
+      "ShopLess.Core/1.0.0": {
+        "runtime": {
+          "ShopLess.Core.dll": {}
+        }
+      },
+      "ShopLess.Data/1.0.0": {
+        "dependencies": {
+          "ShopLess.Core": "1.0.0"
+        },
+        "runtime": {
+          "ShopLess.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopLess.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopLess.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopLess.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

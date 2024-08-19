@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|c:\\users\\landau\\desktop\\c#projects\\lesson17hw\\lesson17hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|solutionrelative:lesson17hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|c:\\users\\landau\\desktop\\c#projects\\lesson17hw\\lesson17hw\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|solutionrelative:lesson17hw\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|c:\\users\\landau\\desktop\\c#projects\\lesson17hw\\lesson17hw\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|solutionrelative:lesson17hw\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|c:\\users\\landau\\desktop\\c#projects\\lesson17hw\\lesson17hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC0322-B2A2-4CD8-9BFE-82F049D8060F}|Lesson17hw\\Lesson17hw.csproj|solutionrelative:lesson17hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\Lesson17hw\\Library.cs",
               "RelativeDocumentMoniker": "Lesson17hw\\Library.cs",
               "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\Lesson17hw\\Library.cs",
               "RelativeToolTip": "Lesson17hw\\Library.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAATAAAA",
+              "ViewState": "AQIAAC4AAACANjMzMzMjwCYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T07:13:52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\Lesson17hw\\Book.cs",
               "RelativeDocumentMoniker": "Lesson17hw\\Book.cs",
               "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\Lesson17hw\\Book.cs",
               "RelativeToolTip": "Lesson17hw\\Book.cs",
-              "ViewState": "AQIAAAUAAAAAbGZmZmYYwBEAAAAXAAAA",
+              "ViewState": "AQIAAA0AAABAAQAAAAAQwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:06:34.058Z"
+              "WhenOpened": "2024-07-29T07:06:34.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\Lesson17hw\\Program.cs",
               "RelativeDocumentMoniker": "Lesson17hw\\Program.cs",
               "ToolTip": "C:\\Users\\Landau\\Desktop\\c#projects\\Lesson17hw\\Lesson17hw\\Program.cs",
               "RelativeToolTip": "Lesson17hw\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T07:05:30.315Z",
+              "WhenOpened": "2024-08-03T08:07:08.432Z",
               "EditorCaption": ""
             }
           ]

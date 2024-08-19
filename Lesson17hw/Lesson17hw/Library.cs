@@ -12,31 +12,31 @@ namespace Lesson17hw
         public void Add(Book book)
         {
             Array.Resize(ref books, books.Length+ 1);
-            books[books.Length] = book;
+            books[books.Length-1] = book;
 
         }
-        public Book[]? FindAllBooksByName(string name) 
+        public Book[] FindAllBooksByName(string name) 
         {
-            Book[] searched = null; 
+            Book[] newBook= new Book[0]; 
             foreach (var item in books)
             {
-                if (item.Name == name) searched=books;
-                if (searched == null)
+                if (item.Name == name)
                 {
-                    throw new NullReferenceException("kitabin adini daxil etememisiz");
+                    Array.Resize(ref newBook, newBook.Length + 1);
+                    newBook[newBook.Length - 1] = item;
                 }
-                
+               
+
             }
-            return searched;
+            return newBook ;
         }
-        public Book FindBookByCode(string code) {
+        public Book? FindBookByCode(string code) {
 
             Book searched = null;
             foreach (var item in books) {
                 if (item.Code == code) searched = item;
                 if(code==null)
                 {
-
                     throw new NullReferenceException("code daxil edinn");
                 }
             }
@@ -44,27 +44,41 @@ namespace Lesson17hw
         }
         public Book[] FindAllBooksByPageCountRange(int min,int max) 
         {
-            Book[] searched = null;
+
+            Book[] searched = new Book[0];
+
+            if (min == null && max == null)
+            {
+                throw new NullReferenceException("min ve max daxil etmelisiniz");
+            
+        }
             foreach (var item in books)
             {
-               
-                if (item.PageCount >= min && item.PageCount <= max)  searched = books;
-                if (min == null && max == null)
+
+                if (item.PageCount >= min && item.PageCount <= max)
                 {
-                    throw new NullReferenceException("min ve max daxil etmelisiniz");                }
+                    Array.Resize(ref searched, searched.Length + 1);
+                    searched[searched.Length - 1] = item;
+                }
             }
             return searched;
         }
-        public void RemoveBookByCode( string code)
+        public void RemoveBookByCode( Book book,ref Book[] books)
         {
+            int arraysize = 0;
             foreach (var item in books)
             {
-                if (item.Code == code)
-                {
-                    books = null;
-                }
+                if(item.Equals(book)) arraysize++;
                 
             }
+            Book[] newAr = new Book[arraysize];
+            int k = 0;
+            foreach (var item in books)
+            {
+                if(!item.Equals(book)) newAr[k++] = item;
+                
+            }
+            books = newAr;
 
         }
         
